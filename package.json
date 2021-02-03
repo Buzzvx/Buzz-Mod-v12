@@ -1,0 +1,19 @@
+{
+  "name": "buzz-moderation",
+  "version": "1.0.0",
+  "main": "buzz.js",
+  "author": "Buzz",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.2",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "description": ""
+}
