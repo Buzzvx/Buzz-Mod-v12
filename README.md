@@ -1,6 +1,6 @@
-## Selamun Aleyküm Arkadaslar >ALLAHIN< Selamı Üzerinize Olsun Sizlere Özel Kodladıgım İşinize Baya Yarıyacak Moderasyon Botu Verdim
+## Selamun Aleyküm Arkadaslar
 
-## Botda Bir Sorun Yoktur Tüm Kodlar Denenmiştir Bir Sıkıntı Olur Yapamazsanız Buzz#3660 Yardımcı Olurum
+## Botda Bir Sorun Yoktur Tüm Kodlar Denenmiştir Bir Sıkıntı Olur Yapamazsanız Buzzvx#7666 Yardımcı Olurum
 
 ## Kurulum;
 
