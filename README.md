@@ -1,4 +1,4 @@
-## Selamun Aleyküm Arkadaslar
+## Selamun Aleyküm Arkadaslar Ben Emin
 
 ## Botda Bir Sorun Yoktur Tüm Kodlar Denenmiştir Bir Sıkıntı Olur Yapamazsanız Buzzvx#7666 Yardımcı Olurum
 
@@ -18,4 +18,4 @@ Bunları Yaptıktan Sonra Dosya Üzerinden PowerShelli Açınız npm init -y yaz
 ,,,
 ,,,
 
-Yapımcı: Buzz
+Yapımcı: Emin
